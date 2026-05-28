@@ -25,11 +25,11 @@
 
 
 
-<h4 align="left">What I work with:</h4>
+<h4>What I work with:</h4>
 
 ###
 
-<div align="left">
+<div>
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="13" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="html5 logo"  />
@@ -56,13 +56,3 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="50" alt="latex logo"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/31beovhc63azibw7b5477x2ldb4a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31beovhc63azibw7b5477x2ldb4a&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
