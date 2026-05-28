@@ -15,13 +15,13 @@
 #### [Hertzsprung Russel Diagram](https://github.com/svsam/H-R-Diagram)&nbsp;&nbsp;&nbsp;<sub>(1 million stars)</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exoplanet orbital temperatures and modelling eccentricity using training data](https://github.com/svsam/Exoplanet-orbital-temperatures-and-modelling-eccentricity-using-training-data)
 
 
-<img height="250" src="Figure_1.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="300" src="Screenshot 2026-05-28 at 20.14.38.png"  />
+<img height="250" src="Figure_1.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="250" src="Screenshot 2026-05-28 at 20.14.38.png"  />
 
 ###
 
 #### [Minesweeper Algorithm](https://github.com/svsam/Minesweeper-Calculator)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Black Hole Simulation](https://github.com/svsam/Black-Hole-simulations)<sub>(Newtonian vs Gravitational Lensing modelling)</sub>
 
-<img height="200" src="Screenshot 2026-05-28 at 20.25.26.png"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="200" src="Screenshot 2026-05-28 at 20-27-51 Black-Hole-simulations_black_hole_lensing.ipynb at main · svsam_Black-Hole-simulations.png"  />
+<img height="150" src="Screenshot 2026-05-28 at 20.25.26.png"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="150" src="Screenshot 2026-05-28 at 20-27-51 Black-Hole-simulations_black_hole_lensing.ipynb at main · svsam_Black-Hole-simulations.png"  />
 
 
 
