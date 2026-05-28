@@ -1,3 +1,4 @@
+
 <h1 align="left">See my projects 🧑🏻‍💻</h1>
 
 ###
@@ -11,57 +12,18 @@
 
 ###
 
-<h4 align="left">Hertzsprung Russel Diagram</h4>
+#### [Hertzsprung Russel Diagram](https://github.com/svsam/H-R-Diagram)&nbsp;&nbsp;&nbsp;<sub>(1 million stars)</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exoplanet orbital temperatures and modelling eccentricity using training data](https://github.com/svsam/Exoplanet-orbital-temperatures-and-modelling-eccentricity-using-training-data)
+
+
+<img height="250" src="Figure_1.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="300" src="Screenshot 2026-05-28 at 20.14.38.png"  />
 
 ###
 
-<br clear="both">
+#### [Minesweeper Algorithm](https://github.com/svsam/Minesweeper-Calculator)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Black Hole Simulation](https://github.com/svsam/Black-Hole-simulations)<sub>(Newtonian vs Gravitational Lensing modelling)</sub>
 
-<div align="left">
-  <img height="200" src=""  />
-</div>
+<img height="200" src="Screenshot 2026-05-28 at 20.25.26.png"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="200" src="Screenshot 2026-05-28 at 20-27-51 Black-Hole-simulations_black_hole_lensing.ipynb at main · svsam_Black-Hole-simulations.png"  />
 
-###
 
-<h4 align="left">Exoplanet orbital temperatures and modelling eccentricity using training data</h4>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
-<h4 align="left">Ice Age Orbit</h4>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
-<h4 align="left">Minesweeper Algorithm</h4>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
-<h4 align="left">Black Hole Simulation</h4>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
 
 <h4 align="left">What I work with:</h4>
 
@@ -89,8 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="blender logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
   <img width="13" />
