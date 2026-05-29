@@ -1,4 +1,4 @@
-# But first... [svsam.com](svsam.com)
+# But first... [svsam.com](https://www.svsam.com)
 <h1 align="left">See my projects 🧑🏻‍💻</h1>
 
 ###
