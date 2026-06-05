@@ -38,8 +38,6 @@
   <img width="13" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript logo"  />
   <img width="13" />
-  <img src="https://cdn.simpleicons.org/rust/000000" height="50" alt="rust logo"  />
-  <img width="13" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="50" alt="cplusplus logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
@@ -49,8 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50" alt="matlab logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="blender logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
   <img width="13" />
