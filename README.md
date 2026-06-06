@@ -1,4 +1,7 @@
-# But first... [svsam.com](https://www.svsam.com)
+## But first... [svsam.com](https://www.svsam.com)
+
+<img src="image.png" style="height: 400px;">
+
 <h1 align="left">See my projects 🧑🏻‍💻</h1>
 
 ###
