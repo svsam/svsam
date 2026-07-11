@@ -25,7 +25,7 @@
 
 #### [Minesweeper Algorithm](https://github.com/svsam/Minesweeper-Calculator)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Black Hole Simulation](https://github.com/svsam/Black-Hole-simulations)<sub>(Newtonian vs Gravitational Lensing modelling)</sub>
 
-<img height="200" src="image.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img height="150" src="Screenshot 2026-05-28 at 20-27-51 Black-Hole-simulations_black_hole_lensing.ipynb at main · svsam_Black-Hole-simulations.png"  />
+<img height="200" src="wincondition.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img height="150" src="Screenshot 2026-05-28 at 20-27-51 Black-Hole-simulations_black_hole_lensing.ipynb at main · svsam_Black-Hole-simulations.png"  />
 
 
 
