@@ -1,7 +1,7 @@
 ## But first... [svsam.com](https://www.svsam.com)
 
 <div align="center">
-  <img height="400" src="image.png"  />
+  <img height="400" src="PersonalWebsite.png"  />
 </div>
 
 <h2 align="left">See my projects 🧑🏻‍💻</h2>
