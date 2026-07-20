@@ -1,22 +1,31 @@
-## But first... [svsam.com](https://www.svsam.com)
+<div align="center">
+  <h1>Welcome to my profile</h1>
+</div>
+I am currently a university student studing Physics w/ Astrophysics and Cosmology. I do computer science projects so I stay up to date with my programming and enhancing my problem solving skills, below you will see any projects that are for show and any upcoming ones that are currently in development. Enjoy!
+
+### But first... [svsam.com](https://www.svsam.com)
 
 <div align="center">
-  <img height="400" src="personalwebsite.gif"/>
+  <img height="300" src="personalwebsite.gif"/>
 </div>
 
 
 <h2 align="left">See my projects 🧑🏻‍💻</h2>
 
-#### [Hertzsprung Russel Diagram](https://github.com/svsam/H-R-Diagram)&nbsp;&nbsp;&nbsp;<sub>(1 million stars)</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ice age orbit of Earth](https://github.com/svsam/Ice-age-orbit)<sub> With the addition of thousands of other exo-planets (TBD)</sub>
+#### Currently in development - Webstronomy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Museum Donation Tooltip | Hypixel Skyblock](https://github.com/svsam/)&nbsp;&nbsp;&nbsp;<sub>Awaiting API approval</sub>
+<img height="300" src="Observatory.jpg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="300" src="MuseumTooltip.png"/>
+
+
+#### [Hertzsprung Russel Diagram](https://github.com/svsam/H-R-Diagram)&nbsp;&nbsp;&nbsp;<sub>(1 million stars)</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ice age orbit of Earth](https://github.com/svsam/Ice-age-orbit)&nbsp;&nbsp;&nbsp;&nbsp;<sub> With the addition of thousands of other exo-planets (TBD)</sub>
 
 
 <img height="250" src="Figure_1.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img height="250" src="iceageorbit.gif"/>
 
 ###
 
-#### [Minesweeper Algorithm](https://github.com/svsam/Minesweeper-Calculator)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Black Hole Simulation](https://github.com/svsam/Black-Hole-simulations)<sub>(Newtonian vs Gravitational Lensing modelling)</sub>
+#### [Minesweeper Algorithm](https://github.com/svsam/Minesweeper-Calculator)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Black Hole Simulation](https://github.com/svsam/Black-Hole-simulations)&nbsp;&nbsp;&nbsp;<sub>(Newtonian vs Gravitational Lensing modelling)</sub>
 
-<img height="200" src="minesweeper.gif"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img height="150" src="Screenshot 2026-05-28 at 20-27-51 Black-Hole-simulations_black_hole_lensing.ipynb at main · svsam_Black-Hole-simulations.png"  />
+<img height="225" src="minesweeper.gif"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="150" src="Screenshot 2026-05-28 at 20-27-51 Black-Hole-simulations_black_hole_lensing.ipynb at main · svsam_Black-Hole-simulations.png"  />
 
 
 
