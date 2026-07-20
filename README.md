@@ -19,7 +19,7 @@ I am currently a university student studing Physics w/ Astrophysics and Cosmolog
 #### [Hertzsprung Russel Diagram](https://github.com/svsam/H-R-Diagram)&nbsp;&nbsp;&nbsp;<sub>(1 million stars)</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ice age orbit of Earth](https://github.com/svsam/Ice-age-orbit)&nbsp;&nbsp;&nbsp;&nbsp;<sub> With the addition of thousands of other exo-planets (TBD)</sub>
 
 
-<img height="250" src="Figure_1.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img height="250" src="iceageorbit.gif"/>
+<img height="250" src="Figure_1.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img height="200" src="iceageorbit.gif"/>
 
 ###
 
