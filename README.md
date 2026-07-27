@@ -1,6 +1,5 @@
-<div align="center">
-  <h1>Welcome to my profile</h1>
-</div>
+<h1>Welcome to my profile</h1>
+
 I am currently a university student studing Physics w/ Astrophysics and Cosmology. I do computer science projects so I stay up to date with my programming and enhancing my problem solving skills, below you will see any projects that are for show and any upcoming ones that are currently in development. Enjoy!
 
 ### But first... [svsam.com](https://www.svsam.com)
