@@ -6,4 +6,4 @@
 i'm currently a student studying physics (astrophysics) and often delve as a hobbyist developer! - [svsam.com](https://svsam.com)
 
 #### Currently in development - Webstronomy
-<img height="250" src="Observatory.jpg"/>
+<img height="200" src="Observatory.jpg"/>
