@@ -4,7 +4,7 @@
 
 # > hi, i'm [sam](https://www.svsam.com)
 
-i'm currently a student studying physics (astrophysics) and often delve as a hobbyist developer! - [svsam.com](https://svsam.com)
+i'm currently a student studying physics (astrophysics) and a hobbyist developer! - [svsam.com](https://svsam.com)
 
 ---
 
