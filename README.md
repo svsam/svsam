@@ -8,6 +8,7 @@ i'm currently a student studying physics (astrophysics) and a hobbyist developer
 
 ---
 
-Currently in development - Webstronomy
+Currently in development - 
+1. EvoXRB: Genetic Algorithms
+2. Orbital Debris & Conjunction Visualiser
 
-<img height="200" src="Observatory.jpg"/>
