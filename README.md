@@ -20,7 +20,7 @@ Currently in development -
 <tr>
 <th valign="top" align="left" width="577px">
   
-  <img src="blackholewebsite.gif" />
+  <img width="500px" src="blackholewebsite.gif" />
 
 </th>
 <td valign="top" align="left">
