@@ -18,7 +18,7 @@ Currently in development -
 
 <table>
 <tr>
-<th valign="top" align="left" width="577px">
+<th valign="top" align="left" width="500px">
   
   <img width="500px" src="blackholewebsite.gif" />
 
