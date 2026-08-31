@@ -12,6 +12,7 @@ i'm currently a student studying physics (astrophysics) and a hobbyist developer
 Currently in development - 
 1. EvoXRB: Genetic Algorithms
 2. Orbital Debris & Conjunction Visualiser
+3. Webstronomy
 <br>
 
 ---
@@ -30,7 +31,7 @@ Currently in development -
 - [**svsam/EvoXRB**](https://github.com/svsam/EvoXRB): Synthetic / NICER-inspired case study
 - [**svsam/Exoplanet orbital-temperature profiles**](https://github.com/svsam/Exoplanet-orbital-temperatures-and-modelling-eccentricity-using-training-data): Exoplanet comparison and modelling study
 - [**svsam/Daybreak-class-expansion**](https://github.com/svsam/Daybreak-class-expansion---Terraria-mod): Terraria weapon class related to the daybreak
-- [**svsam/ASCIIArtGeenerator**](https://github.com/svsam/ASCIIArtGenerator): ASCII Art generator from images, colour included
+- [**svsam/ASCIIArtGeenerator**](https://github.com/earthaccess-dev/earthaccess): earthaccess is a library to search for, and download NASA Earth science data
 
 </td>
 </tr>
