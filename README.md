@@ -10,7 +10,7 @@ i'm currently a student studying physics (astrophysics) and a hobbyist developer
 
 
 Currently in development - 
-1. EvoXRB: Genetic Algorithms (V 0.3)
+1. Refractor telescope (Blender)
 2. Webstronomy (on hiatus for university)
 <br>
 
