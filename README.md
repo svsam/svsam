@@ -22,8 +22,8 @@ Currently in development -
 <tr>
 <th valign="top" align="left">
   
-  <img width="400" src="blackholewebsite.gif" />
-  <img width="535" height="200" src="image.png" />
+  <img width="500" src="blackholewebsite.gif" />
+  <img width="500" height="200" src="image.png" />
 </th>
 
 <td valign="top" align="left">
