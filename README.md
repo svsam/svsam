@@ -20,12 +20,13 @@ Currently in development -
 
 <table>
 <tr>
-<th valign="top" align="left" width="500">
+<th valign="top" align="left">
   
-  <img width="300" src="blackholewebsite.gif" />
-  <img width="300"  height="150" src="Observatory.jpg" />
+  <img width="500" src="blackholewebsite.gif" />
+  <img width="500"  height="150" src="Observatory.jpg" />
 
 </th>
+
 <td valign="top" align="left">
 
 ## Look on my works, ye Mighty, and despair
