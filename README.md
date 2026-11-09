@@ -23,8 +23,7 @@ Currently in development -
 <th valign="top" align="left">
   
   <img width="400" src="blackholewebsite.gif" />
-  <img width="300"  height="250" src="Observatory.jpg" />
-
+  <img width="535" height="200" src="image.png" />
 </th>
 
 <td valign="top" align="left">
@@ -35,7 +34,6 @@ Currently in development -
 - [**svsam/Exoplanet orbital-temperature profiles**](https://github.com/svsam/Exoplanet-orbital-temperatures-and-modelling-eccentricity-using-training-data): Exoplanet comparison and modelling study
 - [**svsam/Daybreak-class-expansion**](https://github.com/svsam/Daybreak-class-expansion---Terraria-mod): Terraria weapon class related to the daybreak weapon.
 - [**svsam/h0-across-cosmological-probes**](https://github.com/svsam/h0-across-cosmological-probes): On the Hubble constant.
-<img width="535" height="200" src="image.png" />
 </td>
 
   
