@@ -6,12 +6,14 @@
 
 i'm currently a student studying physics (astrophysics) and a hobbyist developer! - [svsam.com](https://svsam.com)
 
+i like to program about things i like
+
 ---
 
 
 Currently in development - 
 1. Refractor telescope (Blender)
-2. Webstronomy (on hiatus for university)
+2. H0 parameters across cosmological probes
 <br>
 
 ---
@@ -25,13 +27,17 @@ Currently in development -
 </th>
 <td valign="top" align="left">
 
-## of note / take a look at
+## Look on my works, ye Mighty, and despair
 
-- [**svsam/EvoXRB**](https://github.com/svsam/EvoXRB): Synthetic / NICER-inspired case study
+- [**svsam/EvoXRB**](https://github.com/svsam/EvoXRB): Synthetic / NICER-inspired case study on genetic algorithms, and spinning black holes.
 - [**svsam/Exoplanet orbital-temperature profiles**](https://github.com/svsam/Exoplanet-orbital-temperatures-and-modelling-eccentricity-using-training-data): Exoplanet comparison and modelling study
-- [**svsam/Daybreak-class-expansion**](https://github.com/svsam/Daybreak-class-expansion---Terraria-mod): Terraria weapon class related to the daybreak
-- [**svsam/ASCIIArtGeenerator**](https://github.com/earthaccess-dev/earthaccess): earthaccess is a library to search for, and download NASA Earth science data
-
+- [**svsam/Daybreak-class-expansion**](https://github.com/svsam/Daybreak-class-expansion---Terraria-mod): Terraria weapon class related to the daybreak weapon.
+- [**svsam/h0-across-cosmological-probes**](https://github.com/svsam/h0-across-cosmological-probes): On the Hubble constant.
+<img width="535" height="100" src="image.png" />
 </td>
+
+  
+  
+</th>
 </tr>
 </table>
