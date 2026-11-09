@@ -20,9 +20,10 @@ Currently in development -
 
 <table>
 <tr>
-<th valign="top" align="left" width="500px">
+<th valign="top" align="left" width="500">
   
-  <img width="500px" src="blackholewebsite.gif" />
+  <img width="500" src="blackholewebsite.gif" />
+  <img width="500"  height="150" src="Observatory.jpg" />
 
 </th>
 <td valign="top" align="left">
