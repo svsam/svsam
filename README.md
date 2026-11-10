@@ -22,7 +22,7 @@ Currently in development -
 <tr>
 <th valign="top" align="left">
   
-  <img width="500" src="blackholewebsite.gif" />
+  <img width="500" src="canvas.png" />
   <img width="500" height="200" src="image.png" />
 </th>
 
