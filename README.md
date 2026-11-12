@@ -4,15 +4,15 @@
 
 # > hi, i'm [sam](https://www.svsam.com)
 
-i'm currently a student studying physics (astrophysics) and a hobbyist developer! - [svsam.com](https://svsam.com)
+i'm currently a student studying physics (astrophysics) at KCL and a hobbyist programmer! - [svsam.com](https://svsam.com)
 
-i like to program about things i like
+i like to develop stuff or program about things i like<br>(mainly in python, c# or rust)
 
 ---
 
 
 Currently in development - 
-1. Refractor telescope (Blender)
+1. Nothing really, just maintaining code and polishing them from time to time
 2. H0 parameters across cosmological probes
 <br>
 
@@ -30,10 +30,10 @@ Currently in development -
 
 ## Look on my works, ye Mighty, and despair
 
-- [**svsam/EvoXRB**](https://github.com/svsam/EvoXRB): Synthetic / NICER-inspired case study on genetic algorithms, and spinning black holes.
+- [**svsam/EvoXRB**](https://github.com/svsam/EvoXRB): Case study on genetic algorithms, and spinning black holes
 - [**svsam/Exoplanet orbital-temperature profiles**](https://github.com/svsam/Exoplanet-orbital-temperatures-and-modelling-eccentricity-using-training-data): Exoplanet comparison and modelling study
-- [**svsam/Daybreak-class-expansion**](https://github.com/svsam/Daybreak-class-expansion---Terraria-mod): Terraria weapon class related to the daybreak weapon.
-- [**svsam/h0-across-cosmological-probes**](https://github.com/svsam/h0-across-cosmological-probes): On the Hubble constant.
+- [**svsam/Daybreak-class-expansion**](https://github.com/svsam/Daybreak-class-expansion---Terraria-mod): Terraria weapon class mod
+- [**svsam/h0-across-cosmological-probes**](https://github.com/svsam/h0-across-cosmological-probes): On the Hubble Tension problem
 </td>
 
   
